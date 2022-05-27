@@ -14,11 +14,11 @@ Roles
 =====
 
 Use the ``ansible-galaxy`` command to download roles from the `Galaxy server <https://galaxy.ansible.com>`_.
-For example, the following downloads the `debops.apt role <https://galaxy.ansible.com/debops/apt/>`_:
+For example, the following downloads the `debops role <https://galaxy.ansible.com/debops/debops/>`_:
 
 .. code-block:: bash
 
-    $ ansible-galaxy install debops.apt
+    $ ansible-galaxy install debops.debops
 
 Determining Where Roles Are Installed
 -------------------------------------
